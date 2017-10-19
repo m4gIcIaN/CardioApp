@@ -1,2 +1,1 @@
-# hello-world
-"Tradition"
+Cardio Room Check-In App
